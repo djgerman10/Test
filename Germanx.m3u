@@ -387,8 +387,6 @@ http://181.176.153.106:8090/play/a0eh/index.m3u8
 http://181.78.4.186:8000/play/a0hk/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" tvg-chno="" group-title="Infantiles" :http-referrer="" :http-user-agent="",Disney Jr
 http://181.176.153.106:8090/play/a0og/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" tvg-chno="" group-title="Infantiles" :http-referrer="" :http-user-agent="",Cartoonito
-http://45.176.193.222:2405/play/a06p
 #EXTINF:-1  tvg-name="" tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" tvg-chno="" group-title="Entretenimiento" :http-referrer="" :http-user-agent="",Star Channel
 https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1  tvg-name="" tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" tvg-chno="" group-title="Entretenimiento" :http-referrer="" :http-user-agent="",FX
